@@ -1,0 +1,6 @@
+{
+  "name": "Modelify",
+  "description": "AI-powered fashion studio that turns garment product photos into studio-quality fashion model campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
