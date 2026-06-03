@@ -30,7 +30,7 @@ export default function Header({ onGetStartedClick, onNavigateClick }: HeaderPro
           className="flex cursor-pointer items-center space-x-2"
         >
           <span className="font-serif text-2xl font-bold tracking-tight text-slate-900">
-            Modelify
+            Drapeify
           </span>
           <span className="flex items-center rounded-full bg-indigo-50 px-1.5 py-0.5 text-[10px] font-semibold text-indigo-600">
             <Sparkles className="mr-0.5 h-2.5 w-2.5 text-indigo-600" />

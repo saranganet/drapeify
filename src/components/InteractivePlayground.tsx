@@ -350,7 +350,7 @@ export default function InteractivePlayground() {
                     <Loader2 className="h-7 w-7 text-indigo-400 animate-spin" />
                   </div>
 
-                  <h3 className="font-serif text-lg font-bold">Modelify Render Engine</h3>
+                  <h3 className="font-serif text-lg font-bold">Drapeify Render Engine</h3>
                   <p className="mt-2 text-xs text-indigo-300 font-mono tracking-wider">
                     {activeStepText}
                   </p>

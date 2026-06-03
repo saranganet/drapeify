@@ -159,7 +159,7 @@ export const testimonialsData: TestimonialItem[] = [
   },
   {
     id: "test-2",
-    quote: "The ability to choose models with absolute skin-texture and lighting consistency is a game charger for scaling.",
+    quote: "Drapeify transformed our entire e-commerce catalog in 48 hours. The quality is brand-perfect and indistinguishable from a million-dollar physical photoshoot.",
     author: "Harsh Patel",
     role: "Marketing Head",
     company: "Heves",

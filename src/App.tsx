@@ -158,7 +158,7 @@ export default function App() {
             Ready to upgrade your studio?
           </h2>
           <p className="text-slate-500 font-sans text-sm sm:text-base">
-            Get in touch with our team to explore how Modelify can transform your fashion catalog.
+            Get in touch with our team to explore how Drapeify can transform your fashion catalog.
           </p>
           <button
             onClick={() => setShowContactModal(true)}
